@@ -1,2 +1,7 @@
-# rusty-color
-Game Boy Color Emulator written in Rust
+# 🚩 Project status
+----
+- [ ] Write literally anything lmao
+- [ ] ???
+- [ ] Success!
+
+----
